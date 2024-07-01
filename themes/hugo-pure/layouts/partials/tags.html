@@ -1,0 +1,10 @@
+{{- $tags := . }}
+{{- if ne hugo.Environment "demo" }}
+{{- $tags = where $tags "Title" "!=" "DemoTag" -}}
+{{- end }}
+{{- range $i, $tag := $tags }}
+    {{ if ne $i 0 }}&nbsp;{{ end }}
+    <a class="post-tag" href="{{- $tag.RelPermalink -}}">
+        {{- or (i18n (upper $tag.Title)) $tag.Title | safeHTML -}}
+    </a>
+{{- end }}

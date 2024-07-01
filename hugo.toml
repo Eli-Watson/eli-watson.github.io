@@ -1,0 +1,4 @@
+baseURL = 'https://eli-watson.github.io/'
+languageCode = 'en-us'
+title = 'Projects/Articles'
+paginate = 15 
