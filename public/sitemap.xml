@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-01T21:07:44-05:00</lastmod>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/articles/</loc>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/articles-author-eli-watson/</loc>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-01T21:07:44-05:00</lastmod>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/about/</loc>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-07-01T21:07:44-05:00</lastmod>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-01T22:14:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2024-07-01T21:07:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/projects-author-eli-watson/</loc>
     <lastmod>2024-07-01T21:07:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/tiny/</loc>
@@ -20,16 +35,13 @@
     <loc>http://localhost:1313/categories/articles/</loc>
     <lastmod>2024-07-01T19:31:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learn-html/</loc>
+    <loc>http://localhost:1313/tags/articles-author-eli-watson/</loc>
     <lastmod>2024-07-01T19:31:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/html/</loc>
     <lastmod>2024-07-01T19:31:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/coilgun/</loc>
-    <lastmod>2024-07-01T19:31:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-01T19:31:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/demotag/</loc>

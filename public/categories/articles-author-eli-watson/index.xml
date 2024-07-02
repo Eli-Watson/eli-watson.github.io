@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Projects</title>
-    <link>http://localhost:1313/tags/articles/</link>
-    <description>Recent content in Articles on Projects</description>
+    <title>Articles, Author: Eli Watson on Projects</title>
+    <link>http://localhost:1313/categories/articles-author-eli-watson/</link>
+    <description>Recent content in Articles, Author: Eli Watson on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 22:14:44 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 22:14:44 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/articles-author-eli-watson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How This Website Works</title>
       <link>http://localhost:1313/post/about/</link>

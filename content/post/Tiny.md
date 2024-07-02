@@ -3,6 +3,7 @@ title = 'Tiny11 On a Dell Latitude E4510'
 date = 2024-07-01T21:07:44-05:00
 categories = 'Projects'
 tags = 'Projects, Author: Eli Watson'
+authors = 'Eli Watson'
 
 +++
 

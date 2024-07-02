@@ -1,8 +1,8 @@
 +++
 title = 'How This Website Works'
 date = 2024-07-01T22:14:44-05:00
-tags = 'Articles'
-categories = 'Articles, Author: Eli Watson'
+tags = 'Articles, Author: Eli Watson'
+categories = 'Articles'
 +++
 ## About
 The purpose of this article is to explain the backed of this website, and my ratinal behind the way it is. I hope this offers some insight.
