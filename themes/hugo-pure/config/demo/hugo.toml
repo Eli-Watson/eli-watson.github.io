@@ -1,0 +1,45 @@
+# env: demo
+
+defaultContentLanguage = 'en'
+
+[languages]
+
+[languages.en]
+languageName = "En"
+weight       = 1
+title        = "Hugo Theme: hugo-pure"
+
+[languages.zh]
+languageName = "中"
+weight       = 3
+title        = "Hugo 主题: hugo-pure"
+
+[menus]
+[[menus.main]]
+identifier = "menu1"
+name       = "Home"
+pageRef    = "/"
+weight     = 1
+
+[[menus.main]]
+identifier = "menu2"
+name       = "Tags"
+pageRef    = "/tags/"
+weight     = 9
+
+[[menus.footer]]
+identifier = "github"
+name       = "Github"
+url        = "https://github.com/undus5/hugo-pure"
+weight     = 7
+[[menus.footer.params]]
+targetBlank = true
+
+[[menus.footer]]
+identifier = "rss"
+name       = "Feeds"
+pageRef    = "/"
+weight     = 5
+[[menus.footer.params]]
+targetBlank = true
+format      = "rss"

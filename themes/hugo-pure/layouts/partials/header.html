@@ -1,0 +1,41 @@
+{{- $pctx := . }}
+<div id="header">
+<div class="main-menu pure-menu pure-menu-horizontal">
+
+<ul class="pure-menu-list">
+
+{{- $menus := .Site.Menus.main }}
+{{- with .Site.Menus.secondary }}
+    {{- $menus = $menus | append . }}
+{{- end }}
+
+{{- range $menus }}
+{{ $url := partial "functions/get-menu-url.html" (dict "pctx" $pctx "entry" .) }}
+<li class="pure-menu-item {{ if eq $pctx.RelPermalink $url }} pure-menu-selected {{ end -}}">
+    <a
+        class="pure-menu-link"
+        href="{{- $url -}}"
+        {{ with .Params.targetBlank }}target="_blank"{{ end -}}
+    >
+        {{- or (i18n (upper .Identifier)) .Name | safeHTML -}}
+    </a>
+</li>
+{{- end }}
+
+</ul>
+
+<div class="translation-menu">
+{{- if and .Site.IsMultiLingual .IsTranslated }}
+{{ range $i, $p := .AllTranslations }}
+    {{- if gt $i 0 }}|{{ end }}
+    {{- if eq $p.Lang $pctx.Lang -}}
+        <span>{{- $p.Language.LanguageName -}}</span>
+    {{- else -}}
+        <a href="{{- $p.RelPermalink -}}">{{- $p.Language.LanguageName -}}</a>
+    {{- end }}
+{{- end }}
+{{- end }}
+</div>
+
+</div>
+</div>
