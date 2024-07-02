@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects/Articles</title>
+    <link>https://eli-watson.github.io/</link>
+    <description>Recent content on Projects/Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 18:57:46 -0500</lastBuildDate><atom:link href="https://eli-watson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a CoilGun (Gauss Rifle</title>
+      <link>https://eli-watson.github.io/post/coilgun/</link>
+      <pubDate>Mon, 01 Jul 2024 18:57:46 -0500</pubDate>
+      
+      <guid>https://eli-watson.github.io/post/coilgun/</guid>
+      <description>Constructing a Coilgun (Gauss Rifle) Introduction A Gauss rifle, also known as a coil gun, is a fascinating electromagnetic device that accelerates ferromagnetic projectiles using high-voltage coils. This article delves into the intricacies of multistage coilguns, exploring the necessary components, principles, and applications of this technology. Multistage Coilgun A multistage coilgun is a sophisticated electromagnetic launcher comprised of multiple coil stages arranged along a barrel. Each stage contributes to the acceleration of the projectile, resulting in significant velocity gains over the length of the barrel.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eli-watson.github.io/_index.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eli-watson.github.io/_index.zh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

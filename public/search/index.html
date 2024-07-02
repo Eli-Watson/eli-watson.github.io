@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta property="og:site_name" content="Projects/Articles">
+<meta property="og:url" content="https://eli-watson.github.io/search/">
+<meta property="og:title" content="Search | Projects/Articles">
+<meta property="og:description" content="">
+
+<meta name="description" content="">
+
+<title>Search | Projects/Articles</title>
+<link rel="canonical" href="https://eli-watson.github.io/search/">
+
+ 
+ 
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+    
+    
+    
+    <link rel="stylesheet" href="/bundle.min.css">
+</head>
+
+<body>
+<div id="header">
+<div class="main-menu pure-menu pure-menu-horizontal">
+
+<ul class="pure-menu-list">
+
+<li class="pure-menu-item ">
+    <a
+        class="pure-menu-link"
+        href="/"
+        >Home</a>
+</li>
+
+</ul>
+
+<div class="translation-menu">
+</div>
+
+</div>
+</div>
+
+
+<div id="main">
+    
+
+<div id="s-form" class="pure-form post-list">
+    <div class="post-card">
+        <input id="s-input" placeholder="Google" type="text" class="pure-input-1" />
+    </div>
+    <div class="post-card">
+        <button id="s-button" class="pure-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+    </div>
+</div>
+<p id="s-info"></p>
+
+<script>
+const sForm = document.getElementById("s-form")
+const sInfo = document.getElementById("s-info")
+
+const sInput  = document.getElementById("s-input")
+const sButton  = document.getElementById("s-button")
+
+sButton.addEventListener("click", submit)
+sInput.addEventListener("keydown", event => {
+    if (event.key === "Enter")
+        submit()
+})
+sInput.addEventListener("input", event => {
+    sInfo.innerText = ""
+})
+
+function submit() {
+    let q = sInput.value.trim()
+    if (q === "") {
+        sInput.value = ""
+        sInfo.innerText = "Type in something, please."
+        return false
+    }
+    const { hostname } = window.location
+    q = "site:" + hostname + " " + q
+    const url = new URL("https://www.google.com/search")
+    url.searchParams.set("q", q)
+    window.open(url.toString(), "_blank")
+}
+</script>
+
+
+</div>
+<div id="footer">
+
+<span>
+    &copy;2024
+</span>
+&nbsp;
+
+
+<a href="/index.xml"
+   title="Feeds"
+    target="_blank">Feeds</a>
+
+</div>
+
+</body>
+</html>
