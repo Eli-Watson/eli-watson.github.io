@@ -5,6 +5,7 @@
     <link>http://localhost:1313/search/</link>
     <description>Recent content in Search on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Eli Watson</copyright><atom:link href="http://localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

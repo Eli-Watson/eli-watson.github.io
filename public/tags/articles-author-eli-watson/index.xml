@@ -6,7 +6,18 @@
     <description>Recent content in Articles, Author: Eli Watson on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 19:31:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/articles-author-eli-watson/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Eli Watson</copyright>
+    <lastBuildDate>Mon, 01 Jul 2024 22:14:44 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/articles-author-eli-watson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How This Website Works</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Mon, 01 Jul 2024 22:14:44 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>About The purpose of this article is to explain the backed of this website, and my ratinal behind the way it is. I hope this offers some insight.
+Hosting Both sites is hosted on Github pages. Why? the awnser is very very simple. It is Free. and easy to edit from anywhere. this can cause some security risks but as I am not housing any sensitive data then its fine. This Website is acctually two websites, as it is two diffrent github repos.</description>
+    </item>
+    
     <item>
       <title>Learn Html</title>
       <link>http://localhost:1313/post/html/</link>
