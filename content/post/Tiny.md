@@ -2,7 +2,8 @@
 title = 'Tiny11 On a Dell Latitude E4510'
 date = 2024-07-01T21:07:44-05:00
 categories = 'Projects'
-tags = 'Articles'
+tags = 'Projects'
+author = 'Eli Watson'
 +++
 
 So I had this old Dell E5410 that was just sitting on a shelf collecting dust. And I had just discovered a modified version of Win11 called Tiny11. So it only seemed natural for me to try and install one on the other.
