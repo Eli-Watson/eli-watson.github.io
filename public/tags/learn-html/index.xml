@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn Html on Projects</title>
+    <link>http://localhost:1313/tags/learn-html/</link>
+    <description>Recent content in Learn Html on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 19:31:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/learn-html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Html</title>
+      <link>http://localhost:1313/post/html/</link>
+      <pubDate>Mon, 01 Jul 2024 19:31:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/html/</guid>
+      <description>Embark on Your Web Journey: Learning Basic HTML The Language of the Web HTML serves as the backbone of every webpage you encounter on the internet. It&amp;rsquo;s the language that structures the content you see and interact with daily. At its core, HTML is remarkably intuitive, employing tags to define different elements within a webpage. These tags act as building blocks, shaping the layout, content, and functionality of websites.
+Empowering Creativity and Innovation One of the most compelling aspects of HTML is its versatility.</description>
+    </item>
+    
+  </channel>
+</rss>

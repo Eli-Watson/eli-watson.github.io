@@ -6,7 +6,27 @@
     <description>Recent content on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 19:31:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2024 21:07:44 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiny11 On a Dell Latitude E4510</title>
+      <link>http://localhost:1313/post/tiny/</link>
+      <pubDate>Mon, 01 Jul 2024 21:07:44 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/tiny/</guid>
+      <description>So I had this old Dell E5410 that was just sitting on a shelf collecting dust. And I had just discovered a modified version of Win11 called Tiny11. So it only seemed natural for me to try and install one on the other. But first of all, the specs:
+Laptop Specifications Processor: Intel Core i5-450M Memory: 8GB DDR3L 1600 CL11 RAM Storage: 128GB SSD Wireless: Intel Centrino Advanced-N 6235 So with that out of the way let&amp;rsquo;s get into the installation: I had no issues.</description>
+    </item>
+    
+    <item>
+      <title>Learn Html</title>
+      <link>http://localhost:1313/post/html/</link>
+      <pubDate>Mon, 01 Jul 2024 19:31:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/html/</guid>
+      <description>Embark on Your Web Journey: Learning Basic HTML The Language of the Web HTML serves as the backbone of every webpage you encounter on the internet. It&amp;rsquo;s the language that structures the content you see and interact with daily. At its core, HTML is remarkably intuitive, employing tags to define different elements within a webpage. These tags act as building blocks, shaping the layout, content, and functionality of websites.
+Empowering Creativity and Innovation One of the most compelling aspects of HTML is its versatility.</description>
+    </item>
+    
     <item>
       <title>Making a CoilGun (Guass Rifle)</title>
       <link>http://localhost:1313/post/coilgun/</link>

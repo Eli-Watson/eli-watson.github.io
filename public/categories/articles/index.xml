@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Projects</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Projects</description>
+    <title>Articles on Projects</title>
+    <link>http://localhost:1313/categories/articles/</link>
+    <description>Recent content in Articles on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 21:07:44 -0500</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tiny</title>
-      <link>http://localhost:1313/post/tiny/</link>
-      <pubDate>Mon, 01 Jul 2024 21:07:44 -0500</pubDate>
-      
-      <guid>http://localhost:1313/post/tiny/</guid>
-      <description>Tiny 11 On a Dell Latitude E4510 (and other things) So I had this old Dell E5410 that was just sitting on a shelf collecting dust. And I had just discovered a modified version of Win11 called Tiny11. So it only seemed natural for me to try and install one on the other. But first of all, the specs:
-Laptop Specifications Processor: Intel Core i5-450M Memory: 8GB DDR3L 1600 CL11 RAM Storage: 128GB SSD Wireless: Intel Centrino Advanced-N 6235 So with that out of the way let&amp;rsquo;s get into the installation: I had no issues.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 01 Jul 2024 19:31:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn Html</title>
       <link>http://localhost:1313/post/html/</link>

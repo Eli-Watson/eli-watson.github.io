@@ -1,7 +1,8 @@
 +++
 title = 'Learn Html'
 date = 2024-07-01T19:31:28-05:00
-tags = 'Articles'
+categories = 'Articles'
+tags = 'learn html'
 +++
 
 # Embark on Your Web Journey: Learning Basic HTML
