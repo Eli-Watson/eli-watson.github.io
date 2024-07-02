@@ -1,0 +1,41 @@
+{{- $title := slice .Site.Title }}
+{{- if .Title }}
+    {{- $title = slice .Title " | " .Site.Title  }}
+{{- end }}
+{{- $title = delimit $title "" }}
+{{- $pageTitle := $title }}
+{{- $previewTitle := $title }}
+
+{{- $description := "" }}
+{{ with .Site.Params.description }}
+    {{- $description = . }}
+{{- end }}
+
+{{- if .IsPage }}
+    {{- $previewTitle = .Title }}
+
+    {{- with .Description }}
+        {{- $description = . }}
+    {{- end }}
+
+    {{- $image := .Resources.Get "poster.webp" }}
+    {{- if not $image }}
+        {{- $image = .Resources.Get "banner.webp" }}
+    {{- end }}
+    {{- with $image }}
+        <meta property="og:image" content="{{- .Permalink -}}">
+    {{- end }}
+{{- end }}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta property="og:site_name" content="{{- .Site.Title -}}">
+<meta property="og:url" content="{{- .Permalink -}}">
+<meta property="og:title" content="{{- $previewTitle -}}">
+<meta property="og:description" content="{{- $description -}}">
+
+<meta name="description" content="{{- $description -}}">
+
+<title>{{- $pageTitle -}}</title>
+<link rel="canonical" href="{{- .Permalink -}}">

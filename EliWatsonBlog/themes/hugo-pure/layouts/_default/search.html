@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<div id="s-form" class="pure-form post-list">
+    <div class="post-card">
+        <input id="s-input" placeholder="Google" type="text" class="pure-input-1" />
+    </div>
+    <div class="post-card">
+        <button id="s-button" class="pure-button">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+    </div>
+</div>
+<p id="s-info"></p>
+
+<script>
+const sForm = document.getElementById("s-form")
+const sInfo = document.getElementById("s-info")
+
+const sInput  = document.getElementById("s-input")
+const sButton  = document.getElementById("s-button")
+
+sButton.addEventListener("click", submit)
+sInput.addEventListener("keydown", event => {
+    if (event.key === "Enter")
+        submit()
+})
+sInput.addEventListener("input", event => {
+    sInfo.innerText = ""
+})
+
+function submit() {
+    let q = sInput.value.trim()
+    if (q === "") {
+        sInput.value = ""
+        sInfo.innerText = "{{- or (i18n "NOT_BLANK") "Type in something, please." -}}"
+        return false
+    }
+    const { hostname } = window.location
+    q = "site:" + hostname + " " + q
+    const url = new URL("https://www.google.com/search")
+    url.searchParams.set("q", q)
+    window.open(url.toString(), "_blank")
+}
+</script>
+
+{{ end }}
