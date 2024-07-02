@@ -2,7 +2,7 @@
 title = 'Making a CoilGun (Guass Rifle)'
 date = 2024-07-01T19:31:28-05:00
 categories = 'Articles'
-tags = 'Articles'
+tags = 'Articles, Author: Eli Watson'
 +++
 
 ## Intoroduction

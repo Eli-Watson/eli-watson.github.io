@@ -2,7 +2,7 @@
 title = 'Learn Html'
 date = 2024-07-01T19:31:28-05:00
 categories = 'Articles'
-tags = 'Articles'
+tags = 'Articles, Author: Eli Watson'
 +++
 
 # Embark on Your Web Journey: Learning Basic HTML
