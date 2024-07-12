@@ -15,4 +15,4 @@ jobs:
       
       - name: Run sync script
         run: |
-          bash sync_folders.sh
+          bash sync.sh
