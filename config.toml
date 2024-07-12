@@ -3,7 +3,7 @@ theme = "hugo-theme-flat"
 enableRobotsTXT = true
 hasCJKLanguage = true
 paginate = 5
-baseURL = ""
+baseURL = "https://eli-watson.github.io/"
 
 # these values are hugo built in markup config
 [markup.highlight]

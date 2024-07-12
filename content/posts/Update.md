@@ -1,8 +1,8 @@
 ---
-title: "Update"
+title: "Update About this Website"
 date: 2024-07-12T13:06:04-05:00
 tags: [Code, Backend]
-categories: []
+categories: [Posts]
 weight: 50
 show_comments: true
 katex: false
