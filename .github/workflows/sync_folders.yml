@@ -3,16 +3,38 @@ name: Sync Folders
 on:
   push:
     branches:
-      - main  # adjust branch name as needed
+      - main  # adjust branch name if needed
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout RepoB
+      - name: Checkout Files repository
         uses: actions/checkout@v2
+        with:
+          repository: Eli-Watson/Files  # source repository
+          path: source_repo  # specify a subdirectory for checkout if needed
+      
+      - name: Checkout Destination repository
+        uses: actions/checkout@v2
+        with:
+          repository: Eli-Watson/eli-watson.github.io  # destination repository
+          path: destination_repo  # specify a subdirectory for checkout if needed
+      
+      - name: Install rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rsync
       
       - name: Run sync script
         run: |
-          bash sync.sh
+          # Define paths
+          source_folder="source_repo/resources/Web_Content"
+          destination_folder="destination_repo/content"
+          
+          # Create destination folder if it doesn't exist
+          mkdir -p "$destination_folder"
+
+          # Sync changes using rsync
+          rsync -av --delete "$source_folder/" "$destination_folder/"
