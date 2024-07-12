@@ -1,7 +1,7 @@
 # Basic config
-baseURL = "https://eli-watson.github.io/"
-theme = "bearcub"
-copyright = "Eli Watson (CC BY 4.0)"
+baseURL = "https://example.com"
+theme = "hugo-bearcub"
+copyright = "John Doe (CC BY 4.0)"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -39,10 +39,10 @@ enableRobotsTXT = true
 
 [params]
   # The description of your website
-  description = "Eli Watson Projects"
+  description = "Bear Cub Demo"
 
   # The path to your favicon
-  favicon = "images/favicon.ico"
+  favicon = "images/favicon.png"
 
   # These images will show up when services want to generate a preview of a link
   # to your site. Ignored if `generateSocialCard = true`. For more information
@@ -78,11 +78,12 @@ enableRobotsTXT = true
   # Social media. Delete any item you aren't using to make sure it won't show up
   # in your website's metadata.
   [params.social]
-    
+    twitter = "example" # Twitter handle (without '@')
+    facebook_admin = "0000000000" # Facebook Page Admin ID
 
   # Author metadata. This is mostly used for the RSS feed of your site, but the
   # email is also added to the footer of each post. You can hide the "reply to"
   # link by using a `hideReply` param in front matter.
   [params.author]
-    name = "Eli Watson" # Your name as shown in the RSS feed metadata
-    email = "eli.watson@eliwatson.com" # Added to the footer so readers can reply to posts
+    name = "John Doe" # Your name as shown in the RSS feed metadata
+    email = "me@example.com" # Added to the footer so readers can reply to posts
