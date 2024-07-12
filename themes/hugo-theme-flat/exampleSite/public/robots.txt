@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: //localhost:1313/sitemap.xml

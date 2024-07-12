@@ -1,6 +1,0 @@
-# Basic config
-baseURL = "https://eli-watson.github.io/"
-theme = "hugo-theme-flat"
-copyright = "Eli Watson"
-languageCode = "en-us"
-

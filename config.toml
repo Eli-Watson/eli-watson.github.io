@@ -1,0 +1,94 @@
+title = "Eli Watson Articles"
+theme = "hugo-theme-flat"
+enableRobotsTXT = true
+hasCJKLanguage = true
+paginate = 5
+baseURL = ""
+
+# these values are hugo built in markup config
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = false
+noClasses = false
+noHl = false
+style = 'monokailight'
+tabWidth = 10
+
+[params]
+description = "Example site for hugo-theme-flat"
+mainSections = ['posts']
+
+## uncomment belows and set proper values to enable remark42
+# [params.remark42]
+# host=''
+# site_id=''
+# max_shown_comments=100
+# theme='light'
+# locale='en'
+# show_email_subscription=false
+# simple_view=true
+
+
+# you can set multi row of footers like these
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Copyright"
+pre = "Eli Watson 2024 All Rights Reserved"
+
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Hugo"
+url = "https://gohugo.io"
+pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
+[[params.footer_rows.items]]
+name = "theme flat"
+url = "https://cgit.leafee98.com/hugo-theme-flat.git"
+pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">hugo-theme-flat</a>"
+
+
+[[menus.main]]
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+[[menus.main]]
+name = "Articles"
+url = "/Articles/"
+weight = 40
+
+# 2-level sub menus are supported
+[[menus.main]]
+name = "Pages"
+weight = 60
+
+[[menus.main]]
+parent = "Pages"
+name = "HomePage"
+url = "https://eli-watson.github.io/Home/"
+
+[[menus.main]]
+parent = "Pages"
+name = "Games"
+url = "https://eli-watson.github.io/Home/Pages/Games.html"
+
+[[menus.main]]
+parent = "Pages"
+name = "Links"
+url = "https://eli-watson.github.io/Home/Pages/Links.html"
+
+[[menus.main]]
+parent = "Pages"
+name = "Login"
+url = "https://eli-watson.github.io/Home/Pages/Login.html"
+
+[[menus.main]]
+parent = "Pages"
+name = "About"
+url = "https://eli-watson.github.io/Home/Pages/About.html"
+
