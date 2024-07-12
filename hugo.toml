@@ -1,6 +1,6 @@
 # Basic config
 baseURL = "https://eli-watson.github.io/"
-theme = "bearcub"
+theme = "bearclub"
 copyright = "Eli Watson (CC BY 4.0)"
 defaultContentLanguage = "en"
 
