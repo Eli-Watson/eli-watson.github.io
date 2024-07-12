@@ -1,9 +1,8 @@
-name: Sync Folders
+name: Sync Folders Daily
 
 on:
-  push:
-    branches:
-      - main  # adjust branch name if needed
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
 
 jobs:
   sync:
