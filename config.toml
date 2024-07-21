@@ -84,11 +84,6 @@ url = "https://eli-watson.github.io/Home/Pages/Links.html"
 
 [[menus.main]]
 parent = "Pages"
-name = "Login"
-url = "https://eli-watson.github.io/Home/Pages/Login.html"
-
-[[menus.main]]
-parent = "Pages"
 name = "About"
 url = "https://eli-watson.github.io/Home/Pages/About.html"
 
