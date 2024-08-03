@@ -1,7 +1,7 @@
 +++
 author = "Eli Watson"
 title = "Balisong (Butterfly Knife)"
-date = "2024-08-3"
+date = "2024-08-03"
 description = "Description on balisongs for edc and my plans to make one."
 tags = [
     "balisong", "knife", "EDC",
