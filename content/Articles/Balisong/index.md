@@ -22,4 +22,5 @@ First of all what is EDC? EDC means Evrey Day Carry and refers to what knife you
 
 ### Bali Conststruction 
 Balisongs are traditonally Made with either wood or bamboo as handles and may or may not feture Latches. While this is still diffrent from the original balis wich were made with whatever mateials were avalible locally.
+
 <img src="./OGBali.jpg" width="500" height="250">                                            
