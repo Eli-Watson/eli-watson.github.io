@@ -68,9 +68,3 @@ url = "https://eli-watson.github.io/Home/"
 weight = 40
 
 
-
-[[menus.main]]
-parent = "Pages"
-name = "About"
-url = "https://eli-watson.github.io/Home/Pages/About.html"
-
