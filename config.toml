@@ -55,32 +55,19 @@ pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">h
 [[menus.main]]
 name = "Posts"
 url = "/posts/"
-weight = 30
+weight = 40
 
 [[menus.main]]
 name = "Articles"
 url = "/Articles/"
 weight = 40
 
-# 2-level sub menus are supported
 [[menus.main]]
-name = "Pages"
-weight = 60
-
-[[menus.main]]
-parent = "Pages"
 name = "HomePage"
 url = "https://eli-watson.github.io/Home/"
+weight = 40
 
-[[menus.main]]
-parent = "Pages"
-name = "Games"
-url = "https://eli-watson.github.io/Home/Pages/Games.html"
 
-[[menus.main]]
-parent = "Pages"
-name = "Links"
-url = "https://eli-watson.github.io/Home/Pages/Links.html"
 
 [[menus.main]]
 parent = "Pages"
