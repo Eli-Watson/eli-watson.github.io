@@ -6,8 +6,6 @@ draft = true
 description = "Outlining the use and construction of the pre-bow primitive spear throwers used across the ancient world." 
 tags = [ "Atlatl", ]
 categories = [ "Projects", ] 
-series = ["Themes Guide"] 
-aliases = ["migrate-from-jekyl"] 
 +++
 ## Intro: What is a atlatl?
 Atlatls are spear throwers constructed with a stick that has some sort of point or notch that connects with the back of a spear to double the power and distance the spear or dart can be thrown.
