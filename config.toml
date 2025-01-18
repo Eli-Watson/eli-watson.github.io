@@ -1,6 +1,6 @@
 title = "Eli Watson Articles"
 baseURL = "https://eli-watson.github.io/"
-theme = 'Nostaw'
+theme = 'Simple Retro'
 languageCode = 'en-us'
 
 [taxonomies]
