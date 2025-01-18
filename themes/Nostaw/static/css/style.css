@@ -69,6 +69,7 @@ body a {
     padding: 0.5rem;
     padding-left: 0;
   }
+
 }
 
 /* LISTS */
@@ -93,7 +94,6 @@ body a {
   display: flex;
   flex-direction: row;
   align-content: center;
-  flex-wrap: nowrap;
 }
 
 .flex-item {
@@ -123,5 +123,25 @@ body a {
 .indivial-content{
   background-color: #444;
   padding: 2px;
+
+}
+
+/* make it acctually responsive */
+@media screen and (max-width: 768px) {
+  .flex-container {
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items */
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 100%; /* Scale down the base font size */
+  }
+
+  .flex-item {
+    width: 100%; /* Use full width on very small screens */
+  }
 
 }
