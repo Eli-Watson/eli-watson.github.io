@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eli Watson Articles</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eli Watson Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 21:06:37 -0600</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Update: New Site, Nostaw, and General updates</title>
+      <link>http://localhost:1313/posts/11.4.24nostaw/</link>
+      <pubDate>Mon, 04 Nov 2024 21:06:37 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/11.4.24nostaw/</guid>
+      <description>&lt;h1 id=&#34;nostaw&#34;&gt;Nostaw&lt;/h1&gt;
+&lt;p&gt;I made yet another website repackagaing the same content just for fun. But whatever, im making new content as we speak so get over it. Anyway, the site is a IOS Web-App thing. All that bassicly means is that if you add it to your homescreen it will act like an app and not open a tab in your webbrower. It&amp;rsquo;s not hard Just a few tags in the Head. But It kinda just looks like neal.fun with some basic THREE.js to make it look like I know what im doing.&lt;/p&gt;
+&lt;h1 id=&#34;basiccraft&#34;&gt;BasicCraft&lt;/h1&gt;
+&lt;p&gt;Added this a while ago but never adknowlaged it, so yeah. It&amp;rsquo;s basiclly a modified version of the three.js example &amp;ldquo;Voxel Painter&amp;rdquo; It&amp;rsquo;s a deccent time waster.&lt;/p&gt;
+&lt;h1 id=&#34;future-of-this-site&#34;&gt;Future of this site&lt;/h1&gt;
+&lt;p&gt;&lt;del&gt;INSERT CONTENT&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;Haha just kidding that will never happen, im too busy implementing random fetures  I think are cool.&lt;/p&gt;
+&lt;h1 id=&#34;demos&#34;&gt;Demos&lt;/h1&gt;
+&lt;p&gt;ANOTHER website that just has my code demos. Like my Mad-Lib Generator. Go look at it. Please.&lt;/p&gt;
+&lt;p&gt;-Eli Watson&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>3DS Modding</title>
+      <link>http://localhost:1313/articles/3ds/</link>
+      <pubDate>Sun, 27 Oct 2024 15:22:03 -0500</pubDate>
+      
+      <guid>http://localhost:1313/articles/3ds/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;so&amp;hellip; The nentendeo 3Ds. I currently own two, a 3DS XL and a (New) 3DS Xl. Both are softmodded but the of 3DS XL is not currently working. The ribbon cable connecter clip for the lower screen is broken and as such the lower screen does not display anything unless the cable is pysicly placed inside the connector and held their. And no tape does not work. But that is not what this article is about. In an attepmt to reserch ways to fix it, I stumbled across the world of 3DS hard mods and it got me hooked. Now, i&amp;rsquo;m not going to talk about the software side of things becuase there are numerous resources on that side of things, but not as much about hard mods. Now when I say hard mods I mean anything that changes the pyhisical hardware of the 3DS. Anything from adding a usb-c port to adding a capture card is a hard mod.&lt;/p&gt;
+&lt;h1 id=&#34;so-what-to-add&#34;&gt;So what to add?&lt;/h1&gt;
+&lt;p&gt;Here&amp;rsquo;s the list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Capture card&lt;/li&gt;
+&lt;li&gt;loopy controller mod&lt;/li&gt;
+&lt;li&gt;usb-c (if it fits)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;parts&#34;&gt;Parts&lt;/h1&gt;
+&lt;p&gt;Now im going to go into further detail on each mod&lt;/p&gt;
+&lt;h3 id=&#34;-catpture-card&#34;&gt;-Catpture Card&lt;/h3&gt;
+&lt;p&gt;This is a cool one. It would allow me to hook up my 3ds to a computer do capture the screen over hardware and either use the montor like a big screen or record the footage. Now you can do this over software and their are countless homebrew programs that do so, but this is much faster and can be done offline. And its cool. Now as for witch capture card to use I have a few choices, I could try and track down and old loopy unit but that would likley be difficult and expensive. Another sorce for one, and the route I will probbalby go is buying from Optimize. They are a japanesse brand that ships internatinally and there is a large ammount of english material on this particular card, both on youtube and not. And its not that expensive if you are paying with USD.&lt;/p&gt;
+&lt;h3 id=&#34;-loopy-controller-mod&#34;&gt;-Loopy Controller Mod&lt;/h3&gt;
+&lt;p&gt;Now this is an intereseting one, it allows you to hook up a large selection of controllers ranging from snes to gamecube to the 3ds with full fucntionality. You can even use the Gamecube&amp;rsquo;s c stick in Smash Bros! But the main challenge with this mod is that he no longer makes a board you can just buy, and it is going to be hard to solder. As for acctually obtaining the board there are a few diffrent sellers online and if you are interesting in picking one up I would look on loopys fourm. There will most likley be someone on their selling one. Alternivly he has posted the design and firmware to make one, you will probbalby have to use the wayback machine to find it.&lt;/p&gt;
+&lt;h3 id=&#34;-usb-c&#34;&gt;-USB-C&lt;/h3&gt;
+&lt;p&gt;I said if there is space becasue between the Capture card and Controller mod itll be a pretty tight fit. This one is the easyest of the bunch, there are countless youtube videos detailing this.&lt;/p&gt;
+&lt;h1 id=&#34;afterword&#34;&gt;Afterword&lt;/h1&gt;
+&lt;p&gt;With all these mods together you have bassicly made a consolized 3ds. If you wanted to forgo the case completley and make a custom container that would be cool.&lt;/p&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;loopy&amp;rsquo;s website: &lt;a href=&#34;https://3dscapture.com/&#34;&gt;https://3dscapture.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Optimize capture cards: &lt;a href=&#34;https://optimize.ath.cx/shop_oversea/shop_oversea.html&#34;&gt;https://optimize.ath.cx/shop_oversea/shop_oversea.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Site update, Chat Server</title>
+      <link>http://localhost:1313/posts/8.31.24irc/</link>
+      <pubDate>Sat, 31 Aug 2024 09:16:51 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/8.31.24irc/</guid>
+      <description>&lt;h1 id=&#34;what-i-added&#34;&gt;What I added&lt;/h1&gt;
+&lt;p&gt;If you have read one of my ealier posts on what I wanted to add a chat server, mostly becuase I think its cool. Now I struggle to find the software. Then I discovered irc. Now irc has  been around for a looooong time but I juest never ran across it before now. Now how it works will be a little too much for this short post but its pretty easy to look up. Now I am not hosting my own server, but I do have a channel on one of the biggest irc networks, Libra chat. So how do you get to my channel? Well I embeded a Kiwi Irc, Again look it up for more details, into my site so you can chat directly from it. Go try it out!&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Why Add another Site</title>
+      <link>http://localhost:1313/posts/8.4.24retro/</link>
+      <pubDate>Sun, 04 Aug 2024 13:08:42 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/8.4.24retro/</guid>
+      <description>&lt;h3 id=&#34;intro&#34;&gt;Intro&lt;/h3&gt;
+&lt;p&gt;For this to make since you first have to understand that This website is acctually 3 diffrent github pages sites, &lt;a href=&#34;https://eli-watson.github.io/Home/&#34;&gt;https://eli-watson.github.io/Home/&lt;/a&gt;, &lt;a href=&#34;https://eli-watson.github.io/&#34;&gt;https://eli-watson.github.io/&lt;/a&gt;, and &lt;a href=&#34;https://eli-watson.github.io/Retro/&#34;&gt;https://eli-watson.github.io/Retro/&lt;/a&gt;. The fist one is the first site I made. The second is to host articles and blog posts like the one you are reading right now.&lt;/p&gt;
+&lt;h3 id=&#34;so-why-another-site&#34;&gt;So Why another site?&lt;/h3&gt;
+&lt;p&gt;It is a &amp;ldquo;retro&amp;rdquo; version of my main website (though I hate to call it that because it sounds like i&amp;rsquo;m trying to be trendy). Because of this it uses all the same js as the main site, but diffrent html pages and some slightly diffrent feture sets. Another big reason in the creation of this site is that some of the tings I want to add to my website look out of place on my main site and this is a good place to put them. And it looks cool. And lastly I wanted to try and preserve some of the nostalgia and style of the classic web.&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Things I want to add to this Website</title>
+      <link>http://localhost:1313/posts/add/</link>
+      <pubDate>Fri, 12 Jul 2024 18:06:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/add/</guid>
+      <description>&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+&lt;p&gt;You Might be asking &amp;ldquo;Why add more features! There&amp;rsquo;s not much content on the site you just need to add articles&amp;rdquo; To Awnser this I would like to start by saying that making the features and frameworks is more fun to me. And That is one of the reasons I keep codeing the website in the first place.&lt;/p&gt;
+&lt;h2 id=&#34;what-features&#34;&gt;What Features&lt;/h2&gt;
+&lt;p&gt;So what Features?&lt;/p&gt;
+&lt;h3 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h3&gt;
+&lt;p&gt;Well First and foremost I would like to purchase a domian name so that my site dosen&amp;rsquo;t have that superlong and tedious github domain. Now I am exaggerating a little bit but a custom domain is a top prioity. But&amp;hellip;. Evreything on the site currently has been made or hosted for free. And I am doing my best to keep it this way.&lt;/p&gt;
+&lt;h3 id=&#34;a-file-server&#34;&gt;A file Server&lt;/h3&gt;
+&lt;p&gt;Now this might sound easy but the plot twist is I want it hosted on Github pages. Now since Github pages only serves static content this is hard. And all the pubicly avalible File Server&amp;rsquo;s on github pages Have Either Not Worked for me or have Not statifed my requrements. I want to Make it so The articles and posts on this website can be Uploaded and Downloaded via the the File server so Friends
+can Make Articles and post on this Website, Mostly so I can continue to work on Features and Backend :).&lt;/p&gt;
+&lt;h3 id=&#34;chat-room&#34;&gt;Chat Room&lt;/h3&gt;
+&lt;p&gt;I would also Like to try and add a chat room sort of like discord, But more like a group chat. Now this has multiple hurtles to overcome the most obvious of witch would be the fact that github pages cant host any sort of database or dynamic content. Also Im not good at serverside Coding.&lt;/p&gt;
+&lt;h3 id=&#34;fourm&#34;&gt;Fourm&lt;/h3&gt;
+&lt;p&gt;To go along with the chat room I would like to add a fourm, if my site gets engough users. If not there is no point beside my own ammusement. This faces the same hosting problem as before but the upside is that there are numerous free open source fourm solotions I can use.&lt;/p&gt;
+&lt;h3 id=&#34;better-responsive-layout&#34;&gt;Better Responsive Layout&lt;/h3&gt;
+&lt;p&gt;No really on this site but on my HomePage The responsitvity, while better that it was, is still not good and I would like to impove it.&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Tiny11 on A Dell E4510</title>
+      <link>http://localhost:1313/projects/tiny/</link>
+      <pubDate>Fri, 12 Jul 2024 13:08:48 -0500</pubDate>
+      
+      <guid>http://localhost:1313/projects/tiny/</guid>
+      <description>&lt;p&gt;So I had this old Dell E5410 that was just sitting on a shelf collecting dust. And I had just discovered a modified version of Win11 called Tiny11. So it only seemed natural for me to try and install one on the other.
+But first of all, the specs:&lt;/p&gt;
+&lt;h2 id=&#34;laptop-specifications&#34;&gt;Laptop Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Processor: Intel Core i5-450M&lt;/li&gt;
+&lt;li&gt;Memory: 8GB DDR3L 1600 CL11 RAM&lt;/li&gt;
+&lt;li&gt;Storage: 128GB SSD&lt;/li&gt;
+&lt;li&gt;Wireless: Intel Centrino Advanced-N 6235&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So with that out of the way let&amp;rsquo;s get into the installation: I had no issues. It&amp;rsquo;s a first for me, but this time when installing the OS it went smoothly and without hiccups, besides declining all of Microsoft&amp;rsquo;s AI features.
+I have linked a video I made that outlines performance testing using Cinebench 2003.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WR0P8wzmHoE&#34;&gt;Watch the video: Dell E5410 Running Tiny 11&lt;/a&gt;&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Update About this Website</title>
+      <link>http://localhost:1313/posts/update/</link>
+      <pubDate>Fri, 12 Jul 2024 13:06:04 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/update/</guid>
+      <description>&lt;h1 id=&#34;whats-happening&#34;&gt;Whats Happening?&lt;/h1&gt;
+&lt;p&gt;This post has two purposes, the first to test the new theme, and the second to introduce the new theme. I wanted somthing that has better cattergori control and this is it. One kink I still need to work out though, the drop down menu for the pages for the rest of the website dosen&amp;rsquo;t work on mobile.&lt;/p&gt;</description> 
+    </item>
+    
+    <item>
+      <title>Balisong (Butterfly Knife)</title>
+      <link>http://localhost:1313/articles/balisong/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/balisong/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;The balisong is a pilipino knife made famous by video games and flashy tricks. But how good is it for a EDC?&lt;/p&gt;
+&lt;h2 id=&#34;origins-of-the-balisong&#34;&gt;Origins of the Balisong&lt;/h2&gt;
+&lt;p&gt;The balisong, also known as the Butterfly Knife, originated in the philippines as a reliable and simple utility knife. Its design consists of two handles and a blade witch rotate to open and close the blade.&lt;/p&gt;
+&lt;h2 id=&#34;balis-for-edc&#34;&gt;Bali&amp;rsquo;s for EDC&lt;/h2&gt;
+&lt;p&gt;First of all what is EDC? EDC means Every Day Carry and refers to what knife you carry daily for utility and defense, depending on you priority&amp;rsquo;s. For me it would be mostly  utility but defense is still a focus. Now the major disadvantage of a bali for edc isn&amp;rsquo;t even anything about the knife itself, it is the public perception of the knife and it being regarded as a switchblade. Now since I live in Louisiana, where it is legal, this is less of a concern for me but depending where you live you might be in deep waters. So check your local laws to make sure you wont get fined or something. But back to the Bali itself. So you might be asking &amp;ldquo;What is the purpose of such a thing?&amp;rdquo; Well, it is a folding knife with the strength of a fixed blade. Also it is one of the easiest knifes, besides a auto, to deploy one handed. So if one hand is occupied then you can still open your knife and use it.&lt;/p&gt;
+&lt;h3 id=&#34;bali-conststruction&#34;&gt;Bali Conststruction&lt;/h3&gt;
+&lt;p&gt;Balisongs are traditonally Made with either wood or bamboo as handles and may or may not feture Latches. While this is still diffrent from the original balis wich were made with whatever mateials were avalible locally.
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>How this Website Works</title>
+      <link>http://localhost:1313/articles/about/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;The purpose of this article is to explain the backed of this website, and my ratinal behind the way it is. I hope this offers some insight.&lt;/p&gt;
+&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;Both sites is hosted on Github pages. Why? the awnser is very very simple. It is Free. and easy to edit from anywhere. this can cause some security risks but as I am not housing any sensitive data then its fine. This Website is acctually two websites, as it is two diffrent github repos. The first houses the main site and all its content. The second houses this Hugo site that you are currently reading this article on right now.&lt;/p&gt;
+&lt;h2 id=&#34;why-two-repos&#34;&gt;Why two repos&lt;/h2&gt;
+&lt;p&gt;I initially just had the main site and had all the articles linked off of it, but when it came time to make new articles, it began to become very tidious to code all of the html and css for the page that I was not motivated to accually write anything. Also I wanted some of my firends to write some areticles for my website and Learning Markdown Is a signifiganly lower barrier of entry.&lt;/p&gt;
+&lt;h2 id=&#34;the-actual-code&#34;&gt;The Actual Code&lt;/h2&gt;
+&lt;p&gt;The majority of the site is coded in Html, obviously, as that is the only thing github pages supports. But I have heabily used js and css to enhance the site, besides the links page (If you want to know why to read the explaination there). All of the css and js are in external files so that I can resue them esily between Pages.&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>How to Make a CoilGun (Gauss Rifle)</title>
+      <link>http://localhost:1313/articles/coilgun/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/coilgun/</guid>
+      <description>&lt;h2 id=&#34;intoroduction&#34;&gt;Intoroduction&lt;/h2&gt;
+&lt;p&gt;A Gauss rifle, also known as a coil gun, is a fascinating electromagnetic device that accelerates
+ferromagnetic projectiles using high-voltage coils. This article delves into the intricacies of multistage
+coilguns, exploring the necessary components, principles, and applications of this technology.&lt;/p&gt;
+&lt;h2 id=&#34;multistage-coilgun&#34;&gt;Multistage Coilgun&lt;/h2&gt;
+&lt;p&gt;A multistage coilgun is a sophisticated electromagnetic launcher comprised of multiple coil stages arranged
+along a barrel. Each stage contributes to the acceleration of the projectile, resulting in significant
+velocity gains over the length of the barrel. The design of a multistage coilgun requires careful
+consideration of coil geometry, timing, and power distribution to optimize performance.
+The key challenge in multistage coilgun design lies in efficiently transferring momentum to the projectile
+without prematurely decelerating it. To address this, precise control of the switching circuitry is essential.
+By deactivating each coil stage before the projectile reaches the center of the coil, the magnetic forces can
+be utilized to propel the projectile forward.&lt;/p&gt;
+&lt;h2 id=&#34;switching-circuitry&#34;&gt;Switching Circuitry&lt;/h2&gt;
+&lt;p&gt;Switching circuitry plays a crucial role in the operation of a coilgun, ensuring precise timing and control
+over the magnetic forces acting on the projectile. MOSFETs (Metal-Oxide-Semiconductor Field-Effect
+Transistors) are commonly employed for high-voltage switching applications due to their fast switching speed
+and low on-resistance.
+In a multistage coilgun, the switching circuitry coordinates the activation and deactivation of each coil
+stage as the projectile traverses the barrel. Timing is critical to ensure that the coils are deactivated
+before the projectile reaches the center, preventing it from being pulled back and maximizing acceleration.&lt;/p&gt;
+&lt;h2 id=&#34;power-source&#34;&gt;Power Source&lt;/h2&gt;
+&lt;p&gt;The choice of power source for a coilgun depends on the desired application and performance requirements.
+Multiple large batteries can provide a steady supply of power for repeated firings, making them suitable for
+applications where rapid-fire capability is essential. Alternatively, a capacitor bank can deliver a
+high-voltage pulse for a single powerful shot, ideal for applications where maximum velocity is paramount.
+Regardless of the power source chosen, efficient energy management is essential to optimize the performance of
+the coilgun. Capacitor banks require careful charging and discharging mechanisms to deliver the necessary
+energy to each coil stage, while batteries must be capable of supplying high currents without voltage sag.&lt;/p&gt;
+&lt;h2 id=&#34;projectile-injection&#34;&gt;Projectile Injection&lt;/h2&gt;
+&lt;p&gt;Injecting the projectile into the first coil stage is a critical step in the operation of a coilgun. A
+solenoid pusher is commonly used for this purpose, providing precise control over the timing and velocity of
+the projectile&amp;rsquo;s entry into the barrel. By activating the solenoid electrically, the projectile can be
+propelled into the coilgun with consistent force, ensuring reliable operation.
+The design of the projectile injection mechanism must account for factors such as projectile size, weight, and
+magnetic properties to ensure optimal performance. Additionally, safety considerations are paramount to
+prevent accidental firing or damage to the coilgun components.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Coilguns, or Gauss guns, represent a fascinating intersection of electromagnetism and projectile physics. By
+leveraging the principles of multistage acceleration, precise switching circuitry, and efficient power
+management, coilguns can achieve impressive velocities and kinetic energies.
+As technology advances, coilguns continue to find new applications in fields such as aerospace, defense, and
+research. By understanding the fundamental principles and design considerations outlined in this article,
+engineers and enthusiasts can explore the vast potential of coilgun technology and push the boundaries of
+electromagnetic propulsion.&lt;/p&gt;
+</description> 
+    </item>
+    
+  </channel>
+</rss>
+

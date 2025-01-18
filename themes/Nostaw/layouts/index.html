@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+
+<div class="flex-container" id="index-content">
+    <div class="flex-item" id="index-projects">
+        <h3>Latest Projects</h3>
+            {{ range first 5 (where .Site.RegularPages "Type" "projects") }}
+                <span class="list-item">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <p>{{ .Description }}</p>
+                </span>
+            {{ end }}
+    </div>
+    <div class="flex-item" id="index-blog">
+        <h3>Blog</h3>
+            {{ range first 5 (where .Site.RegularPages "Type" "posts") }}
+                <span class="list-item">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <p>{{ .Description }}</p>
+                </span>
+            {{ end }}
+    </div>
+    <div class="flex-item" id="index-articles">
+        <h3>Latest Articles</h3>
+            {{ range first 5 (where .Site.RegularPages "Type" "articles") }}
+                <span class="list-item">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <p>{{ .Description }}</p>
+                </span>
+            {{ end }}
+    </div>
+    
+    </div>  
+    
+</div>
+{{ .Content }}
+
+{{ partial "footer.html" . }}
+
+ 

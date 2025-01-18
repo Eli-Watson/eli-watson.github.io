@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Eli Watson Articles</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Eli Watson Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jul 2024 13:08:48 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tiny11 on A Dell E4510</title>
+      <link>http://localhost:1313/projects/tiny/</link>
+      <pubDate>Fri, 12 Jul 2024 13:08:48 -0500</pubDate>
+      
+      <guid>http://localhost:1313/projects/tiny/</guid>
+      <description>&lt;p&gt;So I had this old Dell E5410 that was just sitting on a shelf collecting dust. And I had just discovered a modified version of Win11 called Tiny11. So it only seemed natural for me to try and install one on the other.
+But first of all, the specs:&lt;/p&gt;
+&lt;h2 id=&#34;laptop-specifications&#34;&gt;Laptop Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Processor: Intel Core i5-450M&lt;/li&gt;
+&lt;li&gt;Memory: 8GB DDR3L 1600 CL11 RAM&lt;/li&gt;
+&lt;li&gt;Storage: 128GB SSD&lt;/li&gt;
+&lt;li&gt;Wireless: Intel Centrino Advanced-N 6235&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So with that out of the way let&amp;rsquo;s get into the installation: I had no issues. It&amp;rsquo;s a first for me, but this time when installing the OS it went smoothly and without hiccups, besides declining all of Microsoft&amp;rsquo;s AI features.
+I have linked a video I made that outlines performance testing using Cinebench 2003.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WR0P8wzmHoE&#34;&gt;Watch the video: Dell E5410 Running Tiny 11&lt;/a&gt;&lt;/p&gt;
+</description> 
+    </item>
+    
+  </channel>
+</rss>
+

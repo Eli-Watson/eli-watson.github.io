@@ -12,7 +12,7 @@ categories = [
 +++
 
 ## Intro 
-The balisong is a pilipino knife made famous by video games and flash tricks. But how good is it for a EDC? 
+The balisong is a pilipino knife made famous by video games and flashy tricks. But how good is it for a EDC? 
 
 ## Origins of the Balisong
 The balisong, also known as the Butterfly Knife, originated in the philippines as a reliable and simple utility knife. Its design consists of two handles and a blade witch rotate to open and close the blade. 

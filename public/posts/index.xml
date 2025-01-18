@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eli Watson Articles</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Eli Watson Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 May 2022 11:22:44 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site Update: New Site, Nostaw, and General updates</title>
+      <link>http://localhost:1313/posts/11.4.24nostaw/</link>
+      <pubDate>Mon, 04 Nov 2024 21:06:37 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/11.4.24nostaw/</guid>
+      <description>&lt;h1 id=&#34;nostaw&#34;&gt;Nostaw&lt;/h1&gt;
+&lt;p&gt;I made yet another website repackagaing the same content just for fun. But whatever, im making new content as we speak so get over it. Anyway, the site is a IOS Web-App thing. All that bassicly means is that if you add it to your homescreen it will act like an app and not open a tab in your webbrower. It&amp;rsquo;s not hard Just a few tags in the Head. But It kinda just looks like neal.fun with some basic THREE.js to make it look like I know what im doing.&lt;/p&gt;
+&lt;h1 id=&#34;basiccraft&#34;&gt;BasicCraft&lt;/h1&gt;
+&lt;p&gt;Added this a while ago but never adknowlaged it, so yeah. It&amp;rsquo;s basiclly a modified version of the three.js example &amp;ldquo;Voxel Painter&amp;rdquo; It&amp;rsquo;s a deccent time waster.&lt;/p&gt;
+&lt;h1 id=&#34;future-of-this-site&#34;&gt;Future of this site&lt;/h1&gt;
+&lt;p&gt;&lt;del&gt;INSERT CONTENT&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;Haha just kidding that will never happen, im too busy implementing random fetures  I think are cool.&lt;/p&gt;
+&lt;h1 id=&#34;demos&#34;&gt;Demos&lt;/h1&gt;
+&lt;p&gt;ANOTHER website that just has my code demos. Like my Mad-Lib Generator. Go look at it. Please.&lt;/p&gt;
+&lt;p&gt;-Eli Watson&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Site update, Chat Server</title>
+      <link>http://localhost:1313/posts/8.31.24irc/</link>
+      <pubDate>Sat, 31 Aug 2024 09:16:51 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/8.31.24irc/</guid>
+      <description>&lt;h1 id=&#34;what-i-added&#34;&gt;What I added&lt;/h1&gt;
+&lt;p&gt;If you have read one of my ealier posts on what I wanted to add a chat server, mostly becuase I think its cool. Now I struggle to find the software. Then I discovered irc. Now irc has  been around for a looooong time but I juest never ran across it before now. Now how it works will be a little too much for this short post but its pretty easy to look up. Now I am not hosting my own server, but I do have a channel on one of the biggest irc networks, Libra chat. So how do you get to my channel? Well I embeded a Kiwi Irc, Again look it up for more details, into my site so you can chat directly from it. Go try it out!&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Why Add another Site</title>
+      <link>http://localhost:1313/posts/8.4.24retro/</link>
+      <pubDate>Sun, 04 Aug 2024 13:08:42 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/8.4.24retro/</guid>
+      <description>&lt;h3 id=&#34;intro&#34;&gt;Intro&lt;/h3&gt;
+&lt;p&gt;For this to make since you first have to understand that This website is acctually 3 diffrent github pages sites, &lt;a href=&#34;https://eli-watson.github.io/Home/&#34;&gt;https://eli-watson.github.io/Home/&lt;/a&gt;, &lt;a href=&#34;https://eli-watson.github.io/&#34;&gt;https://eli-watson.github.io/&lt;/a&gt;, and &lt;a href=&#34;https://eli-watson.github.io/Retro/&#34;&gt;https://eli-watson.github.io/Retro/&lt;/a&gt;. The fist one is the first site I made. The second is to host articles and blog posts like the one you are reading right now.&lt;/p&gt;
+&lt;h3 id=&#34;so-why-another-site&#34;&gt;So Why another site?&lt;/h3&gt;
+&lt;p&gt;It is a &amp;ldquo;retro&amp;rdquo; version of my main website (though I hate to call it that because it sounds like i&amp;rsquo;m trying to be trendy). Because of this it uses all the same js as the main site, but diffrent html pages and some slightly diffrent feture sets. Another big reason in the creation of this site is that some of the tings I want to add to my website look out of place on my main site and this is a good place to put them. And it looks cool. And lastly I wanted to try and preserve some of the nostalgia and style of the classic web.&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Things I want to add to this Website</title>
+      <link>http://localhost:1313/posts/add/</link>
+      <pubDate>Fri, 12 Jul 2024 18:06:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/add/</guid>
+      <description>&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;
+&lt;p&gt;You Might be asking &amp;ldquo;Why add more features! There&amp;rsquo;s not much content on the site you just need to add articles&amp;rdquo; To Awnser this I would like to start by saying that making the features and frameworks is more fun to me. And That is one of the reasons I keep codeing the website in the first place.&lt;/p&gt;
+&lt;h2 id=&#34;what-features&#34;&gt;What Features&lt;/h2&gt;
+&lt;p&gt;So what Features?&lt;/p&gt;
+&lt;h3 id=&#34;domain-name&#34;&gt;Domain Name&lt;/h3&gt;
+&lt;p&gt;Well First and foremost I would like to purchase a domian name so that my site dosen&amp;rsquo;t have that superlong and tedious github domain. Now I am exaggerating a little bit but a custom domain is a top prioity. But&amp;hellip;. Evreything on the site currently has been made or hosted for free. And I am doing my best to keep it this way.&lt;/p&gt;
+&lt;h3 id=&#34;a-file-server&#34;&gt;A file Server&lt;/h3&gt;
+&lt;p&gt;Now this might sound easy but the plot twist is I want it hosted on Github pages. Now since Github pages only serves static content this is hard. And all the pubicly avalible File Server&amp;rsquo;s on github pages Have Either Not Worked for me or have Not statifed my requrements. I want to Make it so The articles and posts on this website can be Uploaded and Downloaded via the the File server so Friends
+can Make Articles and post on this Website, Mostly so I can continue to work on Features and Backend :).&lt;/p&gt;
+&lt;h3 id=&#34;chat-room&#34;&gt;Chat Room&lt;/h3&gt;
+&lt;p&gt;I would also Like to try and add a chat room sort of like discord, But more like a group chat. Now this has multiple hurtles to overcome the most obvious of witch would be the fact that github pages cant host any sort of database or dynamic content. Also Im not good at serverside Coding.&lt;/p&gt;
+&lt;h3 id=&#34;fourm&#34;&gt;Fourm&lt;/h3&gt;
+&lt;p&gt;To go along with the chat room I would like to add a fourm, if my site gets engough users. If not there is no point beside my own ammusement. This faces the same hosting problem as before but the upside is that there are numerous free open source fourm solotions I can use.&lt;/p&gt;
+&lt;h3 id=&#34;better-responsive-layout&#34;&gt;Better Responsive Layout&lt;/h3&gt;
+&lt;p&gt;No really on this site but on my HomePage The responsitvity, while better that it was, is still not good and I would like to impove it.&lt;/p&gt;
+</description> 
+    </item>
+    
+    <item>
+      <title>Update About this Website</title>
+      <link>http://localhost:1313/posts/update/</link>
+      <pubDate>Fri, 12 Jul 2024 13:06:04 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/update/</guid>
+      <description>&lt;h1 id=&#34;whats-happening&#34;&gt;Whats Happening?&lt;/h1&gt;
+&lt;p&gt;This post has two purposes, the first to test the new theme, and the second to introduce the new theme. I wanted somthing that has better cattergori control and this is it. One kink I still need to work out though, the drop down menu for the pages for the rest of the website dosen&amp;rsquo;t work on mobile.&lt;/p&gt;</description> 
+    </item>
+    
+  </channel>
+</rss>
+

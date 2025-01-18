@@ -1,70 +1,36 @@
 title = "Eli Watson Articles"
-theme = "hugo-theme-flat"
-enableRobotsTXT = true
-hasCJKLanguage = true
-paginate = 5
 baseURL = "https://eli-watson.github.io/"
+theme = 'Nostaw'
+languageCode = 'en-us'
 
-# these values are hugo built in markup config
-[markup.highlight]
-anchorLineNos = false
-codeFences = true
-guessSyntax = false
-hl_Lines = ''
-lineAnchors = ''
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = false
-noClasses = false
-noHl = false
-style = 'monokailight'
-tabWidth = 10
+[taxonomies]
+	author = "authors"
+    tag = "tags"
 
-[params]
-description = "Example site for hugo-theme-flat"
-mainSections = ['posts']
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
 
-## uncomment belows and set proper values to enable remark42
-# [params.remark42]
-# host=''
-# site_id=''
-# max_shown_comments=100
-# theme='light'
-# locale='en'
-# show_email_subscription=false
-# simple_view=true
+[[menu.main]]
+    identifier = "Blog"
+    name = "Blog"
+    url = "/posts"
+    weight = 10
 
+[[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/Articles"
+    weight = 10
 
-# you can set multi row of footers like these
-[[params.footer_rows]]
-[[params.footer_rows.items]]
-name = "Copyright"
-pre = "Eli Watson 2024 All Rights Reserved"
-
-[[params.footer_rows]]
-[[params.footer_rows.items]]
-name = "Hugo"
-url = "https://gohugo.io"
-pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
-[[params.footer_rows.items]]
-name = "theme flat"
-url = "https://cgit.leafee98.com/hugo-theme-flat.git"
-pre = "Theme <a href=\"https://git.leafee98.com/leafee98/hugo-theme-flat.git\">hugo-theme-flat</a>"
+[[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    url = "/Projects"
+    weight = 10
 
 
-[[menus.main]]
-name = "Posts"
-url = "/posts/"
-weight = 40
-
-[[menus.main]]
-name = "Articles"
-url = "/Articles/"
-weight = 40
-
-[[menus.main]]
-name = "HomePage"
-url = "https://eli-watson.github.io/Home/"
-weight = 40
 
 
