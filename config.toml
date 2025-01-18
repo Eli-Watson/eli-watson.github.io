@@ -1,4 +1,4 @@
-title = "Eli Watson Articles"
+title = "Eli Watson's Blog"
 baseURL = "https://eli-watson.github.io/"
 theme = 'Simple-Retro'
 languageCode = 'en-us'
