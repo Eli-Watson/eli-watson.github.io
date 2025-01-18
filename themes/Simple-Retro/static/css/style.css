@@ -59,19 +59,6 @@ body a {
   padding: 0;
 }
 
-@media screen and (max-width: 48rem) {
-  .site-nav,
-  .main-menu {
-    flex-direction: column;
-  }
-
-  .site-nav a {
-    padding: 0.5rem;
-    padding-left: 0;
-  }
-
-}
-
 /* LISTS */
 
 .post-snippet {
