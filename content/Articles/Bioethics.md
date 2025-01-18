@@ -7,8 +7,6 @@ description: 'An essay on Bioethics'
 Eli Watson
 13th January 2025
 
-# The Principles Of Bioethics and Their Application to the Treatment of Mentally-Ill Patients
-
 
 Ever since the Greek physician Hippocrates codified an oath for doctors in the 4th century BC, the topic of Bioethics has been part of the medical field. Although the concerns have always existed in one form or another, in recent years they have become more mainstream and resulted in the modern field of Bioethics. This resulted in a code being created  for medical providers and policymakers alike, The Principles Of Bioethics. These principles can be applied to all manners of medical practice, but are they still applicable to patients with mental illness? Mentally ill patients present a unique challenge because mental health has not been a large part of any discussion until of late and some feel that the principles are not applicable to the treatment of said patients. Although on rare occasions they will not be pertinent, the four principles of bioethics are sufficient for the vast majority of cases because they are broad enough to be applied to various situations. 
 

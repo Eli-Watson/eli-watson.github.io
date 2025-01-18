@@ -2,7 +2,6 @@
 author = "Eli Watson" 
 title = "Atlatls: Use and how I made one." 
 date = "2024-03-11" 
-draft = true
 description = "Outlining the use and construction of the pre-bow primitive spear throwers used across the ancient world." 
 tags = [ "Atlatl", ]
 categories = [ "Projects", ] 
