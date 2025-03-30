@@ -1,5 +1,5 @@
 ---
-title: "Linuxstack"
+title: "Tech Stack and Update"
 date: 2025-03-29T21:30:09-06:00
 author: "Eli Watson"
 descrition: "A little bit of an update on what ive been up to, and my current tech stack."
